@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-public class outOfBoundException {
+public class OutOfBoundException {
     public static void main(String[] args) {
         // create Scanner object
         Scanner input = new Scanner(System.in);
