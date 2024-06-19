@@ -9,7 +9,7 @@ import javafx.scene.layout.Pane;
 import javafx.scene.shape.Circle;
 import javafx.stage.Stage;
 
-public class moveBall extends Application{  
+public class MoveBall extends Application{  
 
     @Override
     public void start(Stage primaryStage){
