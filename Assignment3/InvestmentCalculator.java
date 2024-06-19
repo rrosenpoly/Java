@@ -10,7 +10,7 @@ import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
 import javafx.scene.paint.*;
 
-public class investmentCalculator extends Application{
+public class InvestmentCalculator extends Application{
 
     // declare variables
     private TextField tfinvestmentAmount = new TextField();
